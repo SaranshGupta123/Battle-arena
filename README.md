@@ -33,7 +33,7 @@ To be able to install and run the game, you need to download:
 * [Git](https://git-scm.com/downloads)
 * [Node](https://nodejs.org/en/) - take the LTS (latest stable version) version
 
-After installation of the above programs, if you didm't have them...
+After installation of the above programs, if you didn't have them...
 
 1. clone the repository by entering the command below in your terminal.
 
@@ -52,10 +52,3 @@ After installation of the above programs, if you didm't have them...
 Note: if you want others to access the webpage and play the game. You must be connected through the same network and the must replace the localhost in the url with your IP address in the network.
 
 To know your IP address in the network. this link may help you. :point_right: [Find your computer's IP address](https://kb.iu.edu/d/aapa)
-
-## Who is behind this
-Three brightful minds namely:
-
- [Arnol Fokam](https://github.com/ArnolFokam/) - JS Ninja and cold blooded Game architect.  
- [Teddy Baha](https://github.com/Wil2129) - Firebase Samurai and Ace critical thinker.  
- [Alex Jordan](https://github.com/alexjordan05) - Graphics Sensei and Gamer in the Soul.  
